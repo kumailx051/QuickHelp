@@ -1,0 +1,101 @@
+{
+  "phoneNumberLabel": "Enter Phone No",
+  "phoneNumberLabelUrdu": "فون نمبر درج کریں",
+  "phoneNumberPlaceholder": "Enter your phone number",
+  "nextButton": "Next",
+  "verifyPhoneNumber": "Verify Phone Number",
+  "verifyPhoneNumberUrdu": "فون نمبر کی تصدیق کریں",
+  
+  "enterOtpMessage": "Enter the 6-digit OTP sent to your number:",
+  "enterOtpMessageUrdu": "اپنے نمبر پر بھیجا گیا 6 عددی OTP درج کریں:",
+
+  "roleSelectionTitle": "Select Your Role",
+  "userRole": "Register as User",
+  "employeeRole": "Register as Employee",
+"roleSelectionTitleUrdu": "اپنا کردار منتخب کریں",
+  "userRoleUrdu": "صارف کے طور پر رجسٹر کریں",
+  "employeeRoleUrdu": "ملازم کے طور پر رجسٹر کریں",
+
+  "nameLabel": "Name",
+  "nameLabelUrdu": "نام",
+  "namePlaceholder": "Enter your name",
+  "namePlaceholderUrdu": "اپنا نام درج کریں",
+
+  "basicInfoTitle": "Basic Information",
+  "basicInfoTitleUrdu": "بنیادی معلومات",
+  "additionalDetailsTitle": "Additional Details",
+  "additionalDetailsTitleUrdu": "اضافی تفصیلات",
+
+
+  "fatherNameLabel": "Father's Name",
+  "fatherNameLabelUrdu": "والد کا نام",
+  "fatherNamePlaceholder": "Enter your father's name",
+  "fatherNamePlaceholderUrdu": "اپنے والد کا نام درج کریں",
+
+  "cnicLabel": "CNIC Number",
+  "cnicLabelUrdu": "شناختی کارڈ نمبر",
+  "cnicPlaceholder": "12345-6789012-3",
+  "cnicPlaceholderUrdu": "اپنا شناختی کارڈ نمبر درج کریں",
+
+  "dob": "Date of Birth",
+  "dobLabelUrdu": "تاریخ پیدائش",
+  "dobPlaceholder": "Select your date of birth",
+  "dobPlaceholderUrdu": "اپنی تاریخ پیدائش منتخب کریں",
+
+  "genderLabel": "Gender",
+  "genderLabelUrdu": "جنس",
+  "genderPlaceholder": "Enter your gender",
+  "genderPlaceholderUrdu": "اپنی جنس درج کریں",
+
+  "countryLabel": "Country",
+  "countryLabelUrdu": "ملک",
+  "countryPlaceholder": "Enter your country",
+  "countryPlaceholderUrdu": "اپنا ملک درج کریں",
+
+  "temporaryAddressLabel": "Temporary Address",
+  "temporaryAddressLabelUrdu": "عارضی پتہ",
+  "temporaryAddressPlaceholder": "Enter your temporary address",
+  "temporaryAddressPlaceholderUrdu": "اپنا عارضی پتہ درج کریں",
+
+  "permanentAddressLabel": "Permanent Address",
+  "permanentAddressLabelUrdu": "مستقل پتہ",
+  "permanentAddressPlaceholder": "Enter your permanent address",
+  "permanentAddressPlaceholderUrdu": "اپنا مستقل پتہ درج کریں",
+
+
+  "uploadCnicTitle": "Upload CNIC",
+  "uploadCnicTitleUrdu": "شناختی کارڈ اپ لوڈ کریں",
+  "frontCnicLabel": "Front CNIC",
+  "frontCnicLabelUrdu": "شناختی کارڈ کا سامنے کا حصہ",
+  "backCnicLabel": "Back CNIC",
+  "backCnicLabelUrdu": "شناختی کارڈ کا پچھلا حصہ",
+  "takePhoto": "Open Camera & Take Photo",
+  "takePhotoUrdu": "کیمرہ کھولیں اور تصویر کھینچیں",
+  "nextButtonUrdu": "اگلا",
+
+  "uploadProfilePicture": "Upload Profile Picture",
+  "uploadProfilePictureUrdu": "پروفائل تصویر اپ لوڈ کریں",
+  "profilePicture": "Profile Picture",
+  "profilePictureUrdu": "پروفائل تصویر",
+  "tapToUpload": "Tap to upload from Gallery",
+  "tapToUploadUrdu": "گیلری سے اپ لوڈ کرنے کے لیے ٹیپ کریں",
+  "openCamera": "Open Camera & Take Photo",
+  "next": "Next",
+  "success": "Success",
+  "imageSaved": "Image saved successfully!",
+  "error": "Error",
+  "imageSaveError": "Failed to save the image.",
+  "imagePickError": "Failed to pick the image.",
+
+  "backButton": "Back",
+  "backButtonUrdu": "پیچھے",
+
+  "submitButton": "Submit",
+  "submitButtonUrdu": "جمع کریں",
+
+  "selectGender": "Select Gender",
+  "male": "Male",
+  "female": "Female",
+  "other": "Other",
+  "cancel": "Cancel"
+}
